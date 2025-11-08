@@ -2,6 +2,8 @@
 
 A Python-based Minesweeper game with GUI built using Tkinter, featuring an AI solver that can automatically play the game using logical inference.
 
+![](https://github.com/Iongshiba/minesweeper/blob/c55ed7ce4a0c5158882367feab14851b4533ac04/demo/demo.gif)
+
 ## About
 
 This is a classic Minesweeper implementation with a graphical interface that includes:
@@ -77,3 +79,4 @@ The AI uses a knowledge-based system that:
 2. Creates logical sentences about unknown cells based on revealed information
 3. Performs inference to deduce new safe cells and mines
 4. Makes moves based on safe deductions or calculated risks
+
